@@ -22,9 +22,9 @@
 
 ●     释放文件里下载
 
-●     官网下载：[https://minecraftet.fandom.com/zh/wiki/Minecraft%E5%90%AF%E5%8A%A8%E5%99%A8PCL2]()
+●     官网下载：https://minecraftet.fandom.com/zh/wiki/Minecraft%E5%90%AF%E5%8A%A8%E5%99%A8PCL2
 
-●     作者备份：[https://www.123pan.com/s/erSmjv-T4H5H.html]()
+●     作者备份：https://www.123pan.com/s/erSmjv-T4H5H.html
 
 <mark>注意！</mark>：作者提供的包只支持Windows
 
