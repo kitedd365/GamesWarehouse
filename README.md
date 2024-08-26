@@ -4,8 +4,7 @@
 
 <mark>1.Demon Roulette</mark>
 
-![image](https://github.com/user-attachments/assets/f3adca9b-3bf3-4bd4-b23e-c8de25508ddf)
-
+![image](https://github.com/user-attachments/assets/01d0fb7a-850b-4262-9330-69da5e0a2af9)
 
 这是一个由正版steam的包删减文件完成的离线版，仅适配Windows系统，并且存在打不开的BUG（个别），解决方法：<mark>释放</mark>里的的bat文件在游戏本体压缩包解压后用记事本打开，更改盘符为游戏包所在的盘符后保存，再双击<mark>bat文件</mark>就可以打开了
 
@@ -13,8 +12,7 @@
 
 <mark>2.Minecraf启动器</mark>
 
-![image](https://github.com/user-attachments/assets/323d91b2-0e16-49af-9c18-75a95948f4ab)
-
+![image](https://github.com/user-attachments/assets/e2ead3e9-16f7-417e-bc3d-d15b989f22d4)
 
 <mark>PCL2启动器</mark>是新一代Minecraft启动器，他拥有超快的下载速度，下载安装_Mod_和整合包，简洁且高度自定义的界面，流畅精细的动画。
 
