@@ -4,7 +4,7 @@
 
 <mark>1.Demon Roulette</mark>
 
-![image](C:\Users\Administrator\Pictures\Screenshots\屏幕截图%202024-08-25%20230016.png)
+![屏幕截图 2024-08-25 230016](https://github.com/user-attachments/assets/73b74005-c5a0-4c32-8e3a-758f71ada3fc)
 
 这是一个由正版steam的包删减文件完成的离线版，仅适配Windows系统，并且存在打不开的BUG（个别），解决方法：<mark>释放</mark>里的的bat文件在游戏本体压缩包解压后用记事本打开，更改盘符为游戏包所在的盘符后保存，再双击<mark>bat文件</mark>就可以打开了
 
@@ -12,7 +12,7 @@
 
 <mark>2.Minecraf启动器</mark>
 
-![image](C:\Users\Administrator\Pictures\Screenshots\屏幕截图%202024-08-26%20145252.png)
+![屏幕截图 2024-08-26 145252](https://github.com/user-attachments/assets/b8ff6db6-900e-4065-9f85-e01125f0fc8f)
 
 <mark>PCL2启动器</mark>是新一代Minecraft启动器，他拥有超快的下载速度，下载安装_Mod_和整合包，简洁且高度自定义的界面，流畅精细的动画。
 
@@ -32,13 +32,14 @@
 
 <mark>3.The Forest</mark>
 
-![](C:\Users\Administrator\Downloads\迷失森林2-1.jpg)
+![迷失森林2-1](https://github.com/user-attachments/assets/ce861b5a-69ef-4bdc-bd01-98d1169fb09e)
 
 <mark>《森林》</mark>是一款描述因为空难而迷失在丛林里的幸存者主角，如何在丛林里生存和如何在野人的进攻下免遭伤害的游戏。
 
 该游戏是从steam删改游戏文件制作的离线版本，可以正常游玩，缺点是可能无法从steam联机
 
-这里提供除了释放文件<mark>额外提供一种下载方法</mark>，觉得GitHub下载快的可以不用![](C:\Users\Administrator\AppData\Roaming\marktext_specialedition\images\2024-08-27-22-36-45-17DDDDAB.png)![](C:\Users\Administrator\AppData\Roaming\marktext_specialedition\images\2024-08-27-22-36-49-17DDEC71.png)
+这里提供除了释放文件<mark>额外提供一种下载方法</mark>，觉得GitHub下载快的可以不用![180A184D](https://github.com/user-attachments/assets/c0f9c102-37ab-411d-ae99-904070e6d41b)![180A0B5D](https://github.com/user-attachments/assets/9f046f5b-a787-4c31-867a-0a90008172ec)
+
 
 ●123网盘下载：https://www.123pan.com/s/erSmjv-IxH5H.html
 
