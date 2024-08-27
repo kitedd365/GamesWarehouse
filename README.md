@@ -38,8 +38,7 @@
 
 该游戏是从steam删改游戏文件制作的离线版本，可以正常游玩，缺点是可能无法从steam联机
 
-这里提供除了释放文件<mark>额外提供一种下载方法</mark>，觉得GitHub下载快的可以不用![180A184D](https://github.com/user-attachments/assets/c0f9c102-37ab-411d-ae99-904070e6d41b)![180A0B5D](https://github.com/user-attachments/assets/9f046f5b-a787-4c31-867a-0a90008172ec)
-
+这里<mark>只提供一种下载方法</mark>，因为GitHub装载不了大于2GB的文件
 
 ●123网盘下载：https://www.123pan.com/s/erSmjv-IxH5H.html
 
